@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100vh;
+	font-family: 'Ubuntu', sans-serif;
+	overflow: hidden;
+	color: #fff;
+	background: linear-gradient(10deg, #2483ff 60%, #2c6afb 60%);
+}
+
+nav {
+	margin-top: 100px;
+	background-color: #292929;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	font-size: 24px;
+}
